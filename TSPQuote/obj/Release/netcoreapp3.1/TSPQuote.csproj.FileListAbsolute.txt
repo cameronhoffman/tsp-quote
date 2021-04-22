@@ -1,0 +1,15 @@
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\bin\Release\netcoreapp3.1\TSPQuote.exe
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\bin\Release\netcoreapp3.1\TSPQuote.deps.json
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\bin\Release\netcoreapp3.1\TSPQuote.runtimeconfig.json
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\bin\Release\netcoreapp3.1\TSPQuote.runtimeconfig.dev.json
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\bin\Release\netcoreapp3.1\TSPQuote.dll
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\bin\Release\netcoreapp3.1\TSPQuote.pdb
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\obj\Release\netcoreapp3.1\TSPQuote.csproj.CoreCompileInputs.cache
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\obj\Release\netcoreapp3.1\TSPQuote.AssemblyInfoInputs.cache
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\obj\Release\netcoreapp3.1\TSPQuote.AssemblyInfo.cs
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\obj\Release\netcoreapp3.1\TSPQuote.dll
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\obj\Release\netcoreapp3.1\TSPQuote.pdb
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\obj\Release\netcoreapp3.1\TSPQuote.genruntimeconfig.cache
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\obj\Release\netcoreapp3.1\TSPQuote.csproj.CopyComplete
+C:\Users\cmhof\source\repos\TSPQuote\TSPQuote\obj\Release\netcoreapp3.1\TSPQuote.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZRd5Q4vjDefTvW9GVDGwQ9JqBWT7OH1SIuSEMPyx2mcZrB6ljkJcFuBctQ/pO7Vih4eQ5GkQ0fx7kR0vXxiwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmhof\\source\\repos\\TSPQuote\\TSPQuote\\TSPQuote.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmhof\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
